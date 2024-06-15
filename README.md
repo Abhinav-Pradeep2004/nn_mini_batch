@@ -1,1 +1,1 @@
-# nn_mi
+# nn_mini_batchh
